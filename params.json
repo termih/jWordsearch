@@ -1,6 +1,6 @@
 {
   "name": "Jwordsearch",
   "tagline": "Word search maker program",
-  "body": "# jWordsearch\r\nWordsearch maker program\r\n\r\n\r\n",
+  "body": "# jWordsearch\r\nWordsearch maker program\r\n\r\n\r\n## Author\r\nSallai András\r\n\r\n## Version\r\n0.9.0\r\n\r\n## Licenc\r\nGNU GPL v.3\r\n\r\n## Development tools\r\nJava widht NetBeans\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
